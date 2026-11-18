@@ -15,3 +15,8 @@ android {
         versionName = "1.0"
     }
 }
+
+repositories {
+    google()
+    mavenCentral()
+}
